@@ -1,0 +1,1 @@
+public record EnvVar(string Name,string Value);
