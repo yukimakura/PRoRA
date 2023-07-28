@@ -1,7 +1,6 @@
 # PRoRA
-PaRameter provider Over Rest API
-環境変数をRestAPI経由で配布するための、   
-アプリケーションです。   
+PaRameter provider Over Rest API   
+環境変数をRestAPI経由で配布するためのアプリです。   
 dockerと組み合わせて使うことを想定しています。   
 
 ## 使い方
