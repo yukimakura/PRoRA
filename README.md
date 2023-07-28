@@ -1,7 +1,7 @@
 # PRoRA
 PaRameter provider Over Rest API   
-環境変数をRestAPI経由で配布するためのアプリです。   
-dockerと組み合わせて使うことを想定しています。   
+環境変数をRestAPI経由で配布するためのアプリです   
+dockerと組み合わせて使うことを想定しています   
 
 ## 使い方
 ### すべての環境変数を配布する場合(セキュリティ的にはおすすめしません)
@@ -19,4 +19,4 @@ dockerと組み合わせて使うことを想定しています。
 `Setting_`から始まる環境変数一覧が取得できます
 
 ## ポートの変更
-[`appsetings.json`のkestrelを変更してください。(MSのサイトに飛びます)](https://learn.microsoft.com/ja-jp/aspnet/core/fundamentals/servers/kestrel/endpoints?view=aspnetcore-7.0#configureiconfiguration)
+[`appsetings.json`のkestrelを変更してください(MSのサイトに飛びます)](https://learn.microsoft.com/ja-jp/aspnet/core/fundamentals/servers/kestrel/endpoints?view=aspnetcore-7.0#configureiconfiguration)
